@@ -3,7 +3,7 @@
     "dev": {
       "configure": {
         "redirectUris": ["http://localhost:3000/callback"],
-        "appHomepageUrl": "https://localhost:3000",
+        "appHomepageUrl": "http://localhost:3000",
         "corsOrigins": ["http://localhost:3000"]
       },
       "localEnvVars": {
